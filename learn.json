@@ -1,0 +1,8 @@
+{
+    "myObj" : {
+        "name" : "Anmol",
+        "marks" : 81.13,
+        "Items" : ["pen","copy","tab", {"a" : true}]
+
+    }
+}
